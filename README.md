@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hey there! I'm <a href="">Alejandro Fernandez</a> 👋</h1>
 </div>
+<img src="https://i.imgur.com/NMT0uVN.png">
 
 ## About me
 I'm apasionate Junior Backend Developer with experience in the creation and web applications maintenance. Mi main approach is on API development, databases and bussines logic, prioritizing developments that are efficient, safe and easy to maintain.<br>
@@ -12,10 +13,9 @@ Throughout my student career I have worked with various technologies and program
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
-<a href="https://github.com/AlejFernandezV">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejFernandezV&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejFernandezV&layout=compact&langs_count=8&theme=monokai"/>
-</a>
+  <a href="https://github.com/AlejFernandezV">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejFernandezV&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejFernandezV&layout=compact&langs_count=8&theme=react"/>
+  </a>
 </p>
