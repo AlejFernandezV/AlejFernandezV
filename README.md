@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/NMT0uVN.png">
 
 ## About me
-I'm apasionate Junior Backend Developer with experience in the creation and web applications maintenance. Mi main approach is on API development, databases and bussines logic, prioritizing developments that are efficient, safe and easy to maintain.<br>
+I'm apasionate Junior Backend Developer with experience in the creation and web applications maintenance. My main approach is on API development, databases and bussines logic, prioritizing developments that are efficient, safe and easy to maintain.<br>
 Throughout my student career I have worked with various technologies and programming languages, these are my strengths:
 - Version control: ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - Programming lenguages: ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![TS Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
