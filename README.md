@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hey there! I'm <a href="">Alejandro Fernandez</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/NMT0uVN.png">
+<img src="https://i.imgur.com/JcrzRqY.png">
 
 ## About me
 I am a passionate systems engineer with experience in building and maintaining software applications, especially in the web space, covering both front-end and back-end. I specialise in developing APIs, databases and business logic, always keeping efficiency, security and maintainability projects in mind.<br>
